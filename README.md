@@ -1,17 +1,16 @@
-![github-header](https://github.com/beKoool/bekoool/assets/76424367/9dfa1a44-2300-4676-a480-17e2a4bb1b21)
+<img width="1584" height="396" alt="github header" src="https://github.com/user-attachments/assets/9956a8e2-cd85-4d98-a010-29d15976a756" />
 
-# Hi there, Its beKool.sh 👋
+# Hi there, Its daMakerDev 👋
 
-A teenager who loves to learn new things everyday! 🚀
+I love to learn new things everyday! 🚀
 
 ## Projects
 
-+ **[Sastohost](https://bekoool.github.io/sastohost/)** - Website for [Sastohost](https://sastohost.net).
-+ **[MyPdfs](https://mypdfs.netlify.app)** - Website showcasing my assignments of various subjects ( in pdf form ).
-+ **[HTMLTube](https://htmltube.netlify.app/)** - A Simple Youtube Clone [**currently in development**].
-+ **[Rock Paper Scissors](https://github.com/beKoool/Rock-Paper-Scissors)** - A simple rock paper scissors game made using node.js
++ **[Sastohost](https://damakerdev.github.io/sastohost/)** - Website for [Sastohost](https://sastohost.net).
++ **[HTMLTube](https://htmltube.netlify.app/)** - A Simple Youtube UI Clone [**currently in development**].
++ **[Rock Paper Scissors](https://github.com/damakerdev/Rock-Paper-Scissors)** - A simple rock paper scissors game made using node.js
 + **[Emoji Reaction Plugin](https://www.npmjs.com/package/emoji-reaction-plugin)** - A Robo.js Discord bot plugin to add various emoji based reactions to your interactions.
-+ **[Dotfiles](https://github.com/beKoool/dotfiles)** - My Arch Linux (awesomeWM) dotfiles. :)
++ **[Dotfiles](https://github.com/damakerdev/dotfiles)** - My Arch Linux (awesomeWM) dotfiles. :)
 
 ## Skills
 
