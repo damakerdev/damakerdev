@@ -6,6 +6,7 @@ I love to learn new things everyday! 🚀
 
 ## Projects
 
++ **[3D Globe Project](https://damakerdev.github.io/3d-globe-proj/)** - Finding the best way to visualize locations on a 3D Globe using JS. 
 + **[Sastohost](https://damakerdev.github.io/sastohost/)** - Website for [Sastohost](https://sastohost.net).
 + **[HTMLTube](https://htmltube.netlify.app/)** - A Simple Youtube UI Clone [**currently in development**].
 + **[Rock Paper Scissors](https://github.com/damakerdev/Rock-Paper-Scissors)** - A simple rock paper scissors game made using node.js
