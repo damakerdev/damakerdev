@@ -6,11 +6,12 @@ I love to learn new things everyday! 🚀
 
 ## Projects
 
-+ **[3D Globe Project](https://damakerdev.github.io/3d-globe-proj/)** - Finding the best way to visualize locations on a 3D Globe using JS.
-+ **[Sastohost](https://damakerdev.github.io/sastohost/)** - Website for [Sastohost](https://sastohost.net).
-+ **[Jhandi Burja](https://damekstudios.itch.io/jhandi-burja/)** - Made a simple web-based recreation of the classic Jhandi Burja game.
-+ **[Rock Paper Scissors](https://github.com/damakerdev/Rock-Paper-Scissors)** - A simple rock paper scissors game made using node.js
-+ **[Dotfiles](https://github.com/damakerdev/dotfiles)** - My Arch Linux (awesomeWM) dotfiles. :)
++ **[3D Globe Project](https://damakerdev.github.io/3d-globe-proj/)** - finding the best way to visualize locations on a 3D Globe using JS.
++ **[Jhandi Burja](https://damekstudios.itch.io/jhandi-burja/)** - a web-based recreation of the classic Jhandi Burja game.
++ **[ReTpoC](https://damekstudios.itch.io/retpoc/)** - flappy copter, i guess :)
++ **[Budget Like A Minister](https://play.damekstudios.com/budget-like-a-minister/)** - allocate Nepal's Rs.2T budget wisely... or not!
++ **[end2start](https://damekstudios.itch.io/end2start)** - a web-based game where you enter words starting with the previous word’s last letter to score points!
++ **[Dotfiles](https://github.com/damakerdev/dotfiles)** - my Arch Linux (awesomeWM) dotfiles. :)
 
 ## Skills
 
