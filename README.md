@@ -6,6 +6,7 @@ I love to learn new things everyday! 🚀
 
 ## Projects
 
++ **[Baghchal Engine](https://github.com/damakerdev/baghchal)** - stockfish for baghchal **[WIP]**
 + **[3D Globe Project](https://damakerdev.github.io/3d-globe-proj/)** - finding the best way to visualize locations on a 3D Globe using JS.
 + **[Jhandi Burja](https://damekstudios.itch.io/jhandi-burja/)** - a web-based recreation of the classic Jhandi Burja game.
 + **[ReTpoC](https://damekstudios.itch.io/retpoc/)** - flappy copter, i guess :)
