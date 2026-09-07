@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     font-family="ConsolasFallback,Consolas,monospace"
+     width="1120px" height="810px"
+     font-size="16px">
+  <defs><style>
+      @font-face {
+        src: local('Consolas'), local('Consolas Bold');
+        font-family: 'ConsolasFallback';
+        font-display: swap;
+        size-adjust: 109%;
+      }
+      .bg        { fill: #161b22;     }
+      .fg        { fill: #c9d1d9;   }
+      .key       { fill: #ffa657;    }
+      .value     { fill: #a5d6ff;  }
+      .addColor { fill: #3fb950;    }
+      .delColor { fill: #f85149; }
+      .cc        { fill: #616e7f;   }
+      text, tspan { white-space: pre; }
+      @media (prefers-color-scheme: light) {
+        .bg        { fill: #f6f8fa;     }
+        .fg        { fill: #24292f;   }
+        .key       { fill: #953800;    }
+        .value     { fill: #0a3069;  }
+        .addColor { fill: #1a7f37;    }
+        .delColor { fill: #cf222e; }
+        .cc        { fill: #c2cfde;   }
+      }
+      </style></defs>
+  <rect width="1120px" height="810px" class="bg" rx="15"/>
+  <text x="35" y="30" class="fg" font-size="13px"
+        xml:space="preserve" style="white-space:pre;">
+    <tspan x="35" y="80">              ################              </tspan>
+    <tspan x="35" y="100">          ########################          </tspan>
+    <tspan x="35" y="120">        ######     ######     ######        </tspan>
+    <tspan x="35" y="140">      #####   ################   #####      </tspan>
+    <tspan x="35" y="160">    #####  ######################  #####    </tspan>
+    <tspan x="35" y="180">   ####  ##########################  ####   </tspan>
+    <tspan x="35" y="200">  ####  ############################  ####  </tspan>
+    <tspan x="35" y="220"> ####  ##############################  #### </tspan>
+    <tspan x="35" y="240">####  ################################  ####</tspan>
+    <tspan x="35" y="260">#### ############  #################### ####</tspan>
+    <tspan x="35" y="280">###  ###########  # ###################  ###</tspan>
+    <tspan x="35" y="300">### ###########   ### ###### ########### ###</tspan>
+    <tspan x="35" y="320">### ##########     ### #### # ########## ###</tspan>
+    <tspan x="35" y="340">###  ########       #       ###########  ###</tspan>
+    <tspan x="35" y="360">#### #######                 ## ####### ####</tspan>
+    <tspan x="35" y="380">####  #####                       ####  ####</tspan>
+    <tspan x="35" y="400"> ####  ##                          ##  #### </tspan>
+    <tspan x="35" y="420">  ####                                ####  </tspan>
+    <tspan x="35" y="440">   ####                              ####   </tspan>
+    <tspan x="35" y="460">    #####                          #####    </tspan>
+    <tspan x="35" y="480">      #####                      #####      </tspan>
+    <tspan x="35" y="500">        ######                ######        </tspan>
+    <tspan x="35" y="520">          ########################          </tspan>
+    <tspan x="35" y="540">              ################              </tspan>
+    <tspan x="35" y="560">                                            </tspan>
+    <tspan x="35" y="580">                                            </tspan>
+    <tspan x="35" y="600">                                            </tspan>
+    <tspan x="35" y="620">                                            </tspan>
+    <tspan x="35" y="640">                                            </tspan>
+    <tspan x="35" y="660">                                            </tspan>
+  </text>
+  <text x="410" y="30" class="fg" style="white-space:pre;">
+    <tspan x="410" y="30">damakerdev@github ----------------------------------------------------</tspan>
+    <tspan x="410" y="50"><tspan class="cc">. </tspan><tspan class="key">Name</tspan><tspan class="cc">: .................................. </tspan><tspan class="value">DaMakerDev -- the-maker-dev</tspan></tspan>
+    <tspan x="410" y="70"><tspan class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: .................................... </tspan><tspan class="value">Electronics Engg. Student</tspan></tspan>
+    <tspan x="410" y="90"><tspan class="cc">. </tspan><tspan class="key">Mode</tspan><tspan class="cc">: .............................. </tspan><tspan class="value">Low-level C/C++, systems, games</tspan></tspan>
+    <tspan x="410" y="110"><tspan class="cc">. </tspan><tspan class="key">Building</tspan><tspan class="cc">: ................ </tspan><tspan class="value">Baghchal Engine -&gt; stockfish for baghchal</tspan></tspan>
+    <tspan x="410" y="130"><tspan class="cc">. </tspan><tspan class="key">Learning</tspan><tspan class="cc">: ................. </tspan><tspan class="value">Compilers, terminal graphics, ascii cube</tspan></tspan>
+    <tspan x="410" y="150"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: .......................................... </tspan><tspan class="value">Arch Linux + Hyprland</tspan></tspan>
+    <tspan x="410" y="170"></tspan>
+    <tspan x="410" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages.Systems</tspan><tspan class="cc">: ...................................... </tspan><tspan class="value">C, C++, C#</tspan></tspan>
+    <tspan x="410" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages.Web</tspan><tspan class="cc">: ............................ </tspan><tspan class="value">JS, TS, HTML, CSS, React</tspan></tspan>
+    <tspan x="410" y="230"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan><tspan class="cc">: ............................. </tspan><tspan class="value">English, Nepali, Hindi</tspan></tspan>
+    <tspan x="410" y="250"><tspan class="cc">. </tspan><tspan class="key">Tools.Hardware</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">Arduino, Raspberry Pi, ESP32</tspan></tspan>
+    <tspan x="410" y="270"><tspan class="cc">. </tspan><tspan class="key">Tools.Graphics</tspan><tspan class="cc">: ............................. </tspan><tspan class="value">OpenGL, Blender, Figma</tspan></tspan>
+    <tspan x="410" y="290"><tspan class="cc">. </tspan><tspan class="key">Engines</tspan><tspan class="cc">: ................................... </tspan><tspan class="value">Godot, Unity, Phaser.js</tspan></tspan>
+    <tspan x="410" y="310"></tspan>
+    <tspan x="410" y="330"><tspan class="cc">. </tspan><tspan class="key">Current.Focus</tspan><tspan class="cc">: ................... </tspan><tspan class="value">Baghchal Engine (Stockfish / C++)</tspan></tspan>
+    <tspan x="410" y="350"><tspan class="cc">. </tspan><tspan class="key">Goal</tspan><tspan class="cc">: ........... </tspan><tspan class="value">Mixed reality games -&gt; games felt, not just played</tspan></tspan>
+    <tspan x="410" y="370"><tspan class="cc">. </tspan><tspan class="key">Goal.Vision</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">Wii-style Motion &amp; Sensor Games</tspan></tspan>
+    <tspan x="410" y="390"><tspan class="cc">. </tspan><tspan class="key">Design</tspan><tspan class="cc">: ............................................ </tspan><tspan class="value">Figma, Dribbble</tspan></tspan>
+    <tspan x="410" y="410"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">simulate stuff &amp;&amp; play games</tspan></tspan>
+    <tspan x="410" y="430"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">breaking broken hardware</tspan></tspan>
+    <tspan x="410" y="450"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Offline</tspan><tspan class="cc">: .......... </tspan><tspan class="value">Guitar, Writing, Trekking &amp;&amp; touch grass</tspan></tspan>
+    <tspan x="410" y="470"></tspan>
+    <tspan x="410" y="490">- Contact ------------------------------------------------------------</tspan>
+    <tspan x="410" y="510"><tspan class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc">: ........................................ </tspan><tspan class="value">damakerdev@gmail.com</tspan></tspan>
+    <tspan x="410" y="530"><tspan class="cc">. </tspan><tspan class="key">Site</tspan><tspan class="cc">: ............................................. </tspan><tspan class="value">damekstudios.com</tspan></tspan>
+    <tspan x="410" y="550"><tspan class="cc">. </tspan><tspan class="key">Itch.io</tspan><tspan class="cc">: ...................................... </tspan><tspan class="value">damekstudios.itch.io</tspan></tspan>
+    <tspan x="410" y="570"><tspan class="cc">. </tspan><tspan class="key">Blog</tspan><tspan class="cc">: ........................................ </tspan><tspan class="value">blog.damekstudios.com</tspan></tspan>
+    <tspan x="410" y="590"><tspan class="cc">. </tspan><tspan class="key">Discord</tspan><tspan class="cc">: ................................................ </tspan><tspan class="value">damakerdev</tspan></tspan>
+    <tspan x="410" y="610"></tspan>
+    <tspan x="410" y="630">- Git Stats ----------------------------------------------------------</tspan>
+    <tspan x="410" y="650"><tspan class="cc">. </tspan><tspan class="key">Followers</tspan><tspan class="cc">: .................... </tspan><tspan class="value">22</tspan><tspan class="cc"> | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">11</tspan></tspan>
+    <tspan x="410" y="670"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">661</tspan><tspan class="cc"> | </tspan><tspan class="key">PRs</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">70</tspan></tspan>
+    <tspan x="410" y="690"><tspan class="cc">. </tspan><tspan class="key">Issues</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">13</tspan><tspan class="cc"> | </tspan><tspan class="key">Reviews</tspan><tspan class="cc">: .................... </tspan><tspan class="value">0</tspan></tspan>
+    <tspan x="410" y="710"><tspan class="cc">. </tspan><tspan class="key">Contribs</tspan><tspan class="cc">: .................... </tspan><tspan class="value">870</tspan><tspan class="cc"> | </tspan><tspan class="key">Repos</tspan><tspan class="cc">: .. </tspan><tspan class="value">46 {<tspan class="key">Contrib</tspan>: <tspan class="cc">.....</tspan>31}</tspan></tspan>
+    <tspan x="410" y="730"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: .................. </tspan><tspan class="value">5y 260d</tspan><tspan class="cc"> | </tspan><tspan class="key">Streak</tspan><tspan class="cc">: . </tspan><tspan class="value">2d {<tspan class="key">Best</tspan>: <tspan class="cc">.......</tspan>19d}</tspan></tspan>
+    <tspan x="410" y="750"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan class="cc">: ........... </tspan><tspan class="value">813,421</tspan><tspan class="cc"> | </tspan>{     <tspan class="addColor">837,715</tspan>++, <tspan class="delColor">24,294</tspan>--     }</tspan>
+    <tspan x="410" y="770"></tspan>
+  </text>
+</svg>

@@ -1,11 +1,8 @@
-<p align="center">
-  <a href="https://github.com/jeantimex/neofetch-profile">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=damakerdev&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fdamakerdev%2Fdamakerdev%2Fmain%2Fneofetch.json">
-      <img alt="damaker's neofetch" src="https://neofetch-profile.vercel.app/api?username=damakerdev&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fdamakerdev%2Fdamakerdev%2Fmain%2Fneofetch.json">
-    </picture>
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-light.svg">
+  <img alt="DaMakerDev Profile" src="./profile.svg">
+</picture>
 
 <div align="center">
 
@@ -48,9 +45,10 @@ PID   PROJECT                    STAT      %FUN   COMMAND
 004   <a href="https://damekstudios.itch.io/jhandi-burja/">jhandi-burja</a>               live      75%    web recreation of the classic dice game
 005   <a href="https://damekstudios.itch.io/retpoc/">retpoc</a>                     live      70%    flappy copter, basically
 006   <a href="https://play.damekstudios.com/budget-like-a-minister/">budget-like-a-minister</a>     live      85%    allocate Nepal's Rs.2T budget wisely... or not
-007   <a href="https://damekstudios.itch.io/end2start">end2start</a>                  live      65%    word chain game, last letter starts the next word
-008   <a href="https://damakerdev.github.io/shoot-em-up/">shoot-em-up</a>                live      60%    JS bookmarklet, turns any site into a shooter
-009   <a href="https://github.com/damakerdev/dotfiles">dotfiles</a>                   stable    -69%      arch + hyprland config
+007   <a href="https://damakerdev.github.io/tictactoe/">tic tac toe</a>                live      67%    unbeatable tic tac toe. win if u can :)
+008   <a href="https://damekstudios.itch.io/end2start">end2start</a>                  live      65%    word chain game, last letter starts the next word
+009   <a href="https://damakerdev.github.io/shoot-em-up/">shoot-em-up</a>                live      60%    JS bookmarklet, turns any site into a shooter
+010   <a href="https://github.com/damakerdev/dotfiles">dotfiles</a>                   stable    -69%   arch + hyprland config
 </pre>
 
 ```
