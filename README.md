@@ -1,36 +1,86 @@
-<!-- <img width="1584" height="396" alt="github header" src="https://github.com/user-attachments/assets/9956a8e2-cd85-4d98-a010-29d15976a756" /> -->
+<p align="center">
+  <a href="https://github.com/jeantimex/neofetch-profile">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=damakerdev&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fdamakerdev%2Fdamakerdev%2Fmain%2Fneofetch.json">
+      <img alt="damaker's neofetch" src="https://neofetch-profile.vercel.app/api?username=damakerdev&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fdamakerdev%2Fdamakerdev%2Fmain%2Fneofetch.json">
+    </picture>
+  </a>
+</p>
 
-# Hi there, Its daMakerDev 👋
+<div align="center">
 
-I love to learn new things everyday! 🚀
-
-## Projects
-
-+ **[Baghchal Engine](https://github.com/damakerdev/baghchal)** - stockfish for baghchal **[WIP]**
-+ **[3D Globe Project](https://damakerdev.github.io/3d-globe-proj/)** - finding the best way to visualize locations on a 3D Globe using JS.
-+ **[Jhandi Burja](https://damekstudios.itch.io/jhandi-burja/)** - a web-based recreation of the classic Jhandi Burja game.
-+ **[ReTpoC](https://damekstudios.itch.io/retpoc/)** - flappy copter, i guess :)
-+ **[Budget Like A Minister](https://play.damekstudios.com/budget-like-a-minister/)** - allocate Nepal's Rs.2T budget wisely... or not!
-+ **[end2start](https://damekstudios.itch.io/end2start)** - a web-based game where you enter words starting with the previous word’s last letter to score points!
-+ **[Dotfiles](https://github.com/damakerdev/dotfiles)** - my Arch Linux (awesomeWM) dotfiles. :)
-
-## Skills
-
-<img src = "https://img.shields.io/badge/-UNITY-000000?logo=unity&logoColor=fff"> <img src = "https://img.shields.io/badge/-FIGMA-red?logo=figma&logoColor=white&black"> <img src = "https://img.shields.io/badge/-JAVASCRIPT-grey?logo=javascript">  <img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">  <img src = "https://img.shields.io/badge/-CSS-264de4?logo=css3&logoColor=fff"> <img src = "https://img.shields.io/badge/-BLENDER-F5792A?logo=blender&logoColor=fff">  ![](https://dcbadge.vercel.app/api/shield/778832929186906123?style=flat)
-
-<!-- <img src = "https://img.shields.io/badge/-UNITY-000000?logo=unity&logoColor=fff&style=for-the-badge"> <img src = "https://img.shields.io/badge/-figma-red?logo=figma&logoColor=white&black&style=for-the-badge"> <img src = "https://img.shields.io/badge/-JAVASCRIPT-yellow?style=for-the-badge"> <img src = "https://img.shields.io/badge/-BLENDER-F5792A?logo=blender&logoColor=fff&style=for-the-badge">  <img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff&style=for-the-badge"> ![](https://dcbadge.vercel.app/api/shield/778832929186906123?style=for-the-badge) -->
-
-
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=beKoool&hide_border=true&show_icons=true&theme=onedark) -->
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheCoolGDev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=bekoool&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
- 
-<!-- 
-[![@thecooldev's Holopin board](https://holopin.io/api/user/board?user=thecooldev)](https://holopin.io/@thecooldev)
- -->
-
-
-
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/-LINUX-FCC624?logo=linux&logoColor=black)
+![OpenGL](https://img.shields.io/badge/-OPENGL-5586A4?logo=opengl&logoColor=white)
+![Bash](https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=white)
+![Neovim](https://img.shields.io/badge/-NEOVIM-57A143?logo=neovim&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMAKE-064F8C?logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/-GIT-F05032?logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RASPBERRY%20PI-A22846?logo=raspberrypi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-REACT-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-REACT%20NATIVE-61DAFB?logo=react&logoColor=black)
+![Arduino](https://img.shields.io/badge/-ARDUINO-00979D?logo=arduino&logoColor=white)
+![Three.js](https://img.shields.io/badge/-THREE.JS-000000?logo=threedotjs&logoColor=white)
+![Unity](https://img.shields.io/badge/-UNITY-000000?logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/-GODOT-478CBF?logo=godotengine&logoColor=white)
+![Phaser.js](https://img.shields.io/badge/-PHASER-000000?logo=phaser&logoColor=white)
+![Blender](https://img.shields.io/badge/-BLENDER-F5792A?logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/-FIGMA-F24E1E?logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-ILLUSTRATOR-FF9A00?logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-PHOTOSHOP-31A8FF?logo=adobephotoshop&logoColor=white)
 
 
+
+</div>
+
+```
+┌─[damaker@dev]─[~]
+└──╼ $ ps aux | grep projects
+```
+
+<pre>
+PID   PROJECT                    STAT      %FUN   COMMAND
+001   <a href="https://damekstudios.com/adkalbaji">adkalbaji</a>                  live      98%    heads-up party game · Nepali + English · Play Store
+002   <a href="https://github.com/damakerdev/baghchal">baghchal-engine</a>            building   ∞     stockfish for baghchal · learning A LOT
+003   <a href="https://damakerdev.github.io/3d-globe-proj/">3d-globe-proj</a>              running   80%    visualizing locations on a 3D globe with JS
+004   <a href="https://damekstudios.itch.io/jhandi-burja/">jhandi-burja</a>               live      75%    web recreation of the classic dice game
+005   <a href="https://damekstudios.itch.io/retpoc/">retpoc</a>                     live      70%    flappy copter, basically
+006   <a href="https://play.damekstudios.com/budget-like-a-minister/">budget-like-a-minister</a>     live      85%    allocate Nepal's Rs.2T budget wisely... or not
+007   <a href="https://damekstudios.itch.io/end2start">end2start</a>                  live      65%    word chain game, last letter starts the next word
+008   <a href="https://damakerdev.github.io/shoot-em-up/">shoot-em-up</a>                live      60%    JS bookmarklet, turns any site into a shooter
+009   <a href="https://github.com/damakerdev/dotfiles">dotfiles</a>                   stable    -69%      arch + hyprland config
+</pre>
+
+```
+┌─[damaker@dev]─[~]
+└──╼ $ ./reach_me.sh
+```
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-damakerdev%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:damakerdev@gmail.com)
+[![Site](https://img.shields.io/badge/-damekstudios.com-000000?logo=googlechrome&logoColor=white)](https://damekstudios.com)
+[![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://damekstudios.itch.io)
+[![Play](https://img.shields.io/badge/-play.damekstudios.com-34A853?logo=googleplay&logoColor=white)](https://play.damekstudios.com)
+[![Blog](https://img.shields.io/badge/-blog-FF5722?logo=rss&logoColor=white)](https://blog.damekstudios.com)
+![Discord](https://dcbadge.limes.pink/api/shield/778832929186906123?style=flat)
+[![Dribbble](https://img.shields.io/badge/-dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/anujsapkota)
+
+
+</div>
+
+```
+┌─[damaker@dev]─[~]
+└──╼ $ fortune -s
+
+eat. sleep. build. repeat.
+build slow. build low-level. build relationships. build things that last. build things that help. 
+build stuff, share stuff. help people, love people.
+touch grass occasionally.
+happy living, happy coding.
+
+jaOS ;)
+$ █
+```
