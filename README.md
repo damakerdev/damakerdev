@@ -40,7 +40,7 @@
 <pre>
 PID   PROJECT                    STAT      %FUN   COMMAND
 001   <a href="https://damekstudios.com/adkalbaji">adkalbaji</a>                  live      98%    heads-up party game · Nepali + English · Play Store
-002   <a href="https://github.com/damakerdev/baghchal">blackbird-engine</a>            building   ∞     stockfish for baghchal using c++ · learning A LOT
+002   <a href="https://github.com/damakerdev/baghchal">blackbird-engine</a>           building   ∞     stockfish for baghchal using c++ · learning A LOT
 003   <a href="https://damakerdev.github.io/3d-globe-proj/">3d-globe-proj</a>              running   80%    visualizing locations on a 3D globe with JS
 004   <a href="https://damekstudios.itch.io/jhandi-burja/">jhandi-burja</a>               live      75%    web recreation of the classic dice game
 005   <a href="https://damekstudios.itch.io/retpoc/">retpoc</a>                     live      70%    flappy copter, basically
