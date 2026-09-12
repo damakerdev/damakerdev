@@ -496,7 +496,7 @@ def build_svg(
         info_row(Y[1],  'Name',              'DaMakerDev -- the-maker-dev'),
         info_row(Y[2],  'Role',              'Electronics Engg. Student'),
         info_row(Y[3],  'Mode',              'Low-level C/C++, systems, games'),
-        info_row(Y[4],  'Building',          'Baghchal Engine -> stockfish for baghchal'),
+        info_row(Y[4],  'Building',          'Blackbird Engine -> stockfish for baghchal'),
         info_row(Y[5],  'Learning',          'Compilers, terminal graphics, ascii cube'),
         info_row(Y[6],  'OS',                'Arch Linux + Hyprland'),
 
