@@ -2,14 +2,19 @@ name: Update Profile Card
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
+    - cron: '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,9 +30,9 @@ jobs:
         run: python profile.py
 
       - name: Commit and push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add profile.svg profile-dark.svg profile-light.svg
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: auto-update profile SVGs"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: auto-update profile SVGs [skip ci]"
+          file_pattern: "profile.svg profile-dark.svg profile-light.svg"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
