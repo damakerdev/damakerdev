@@ -34,5 +34,5 @@ jobs:
         with:
           commit_message: "chore: auto-update profile SVGs [skip ci]"
           file_pattern: "profile.svg profile-dark.svg profile-light.svg"
-          commit_user_name: "github-actions[bot]"
-          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          skip_dirty_check: false
+          commit_options: '--allow-empty=false'
